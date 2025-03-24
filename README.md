@@ -87,34 +87,6 @@ Based on our ensemble model, **Team Z** is predicted to win the 2025 IPL season 
 - **Machine Learning**: Scikit-learn, XGBoost
 - **Deep Learning**: TensorFlow/Keras (for neural network experimentation)
 - **Development Environment**: Jupyter Notebook/Google Colab
-
-## 📁 Repository Structure
-
-```
-.
-├── data/
-│   ├── matches.csv
-│   └── deliveries.csv
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_team_performance_analysis.ipynb
-│   ├── 03_player_performance_analysis.ipynb
-│   ├── 04_seasonal_analysis.ipynb
-│   └── 05_winner_prediction_model.ipynb
-├── presentation/
-│   └── ipl_analysis_presentation.pptx
-├── src/
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   ├── visualization.py
-│   └── model.py
-├── results/
-│   ├── figures/
-│   └── model_outputs/
-├── requirements.txt
-└── README.md
-```
-
 ## 📊 Sample Visualizations
 
 ## ⚙️ Setup and Installation
